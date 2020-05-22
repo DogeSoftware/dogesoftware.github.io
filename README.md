@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## DogeSoftware
+Hello, we're making software mainly for data hoarders. What does that mean? It means that if you like downloading a crapton of stuff from the internet, you'll probably like our software.
 
-You can use the [editor on GitHub](https://github.com/DogeSoftware/dogesoftware.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Our Projects
+- [yt-resolve](https://dogesoftware.github.io/yt-resolve): Changes search queries to youtube links to (for example) download videos in bulk without getting the urls manually. Doesn't need API keys. [[Source Code](https://github.com/DogeSoftware/yt-resolve)]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [meme-downloader](https://github.com/DogeSoftware/meme-downloader): A Microsoft Batch/NodeJS app that allows you to download memes from Reddit automatically.
 
-### Markdown
+- [dogesoftware.github.io](https://github.com/DogeSoftware/dogesoftware.github.io): This website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DogeSoftware/dogesoftware.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- ~~[Memecent](https://github.com/DogeSoftware/Memecent): A decentralized meme sharing app, based on IPFS.~~ Discontinued, never really made.
